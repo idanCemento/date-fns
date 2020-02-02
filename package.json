@@ -8,7 +8,7 @@
   ],
   "license": "MIT",
   "description": "Modern JavaScript date utility library",
-  "repository": "https://github.com/date-fns/date-fns",
+  "repository": "http://github.com/idanCemento/date-fns",
   "engine": {
     "node": ">= 0.11"
   },
