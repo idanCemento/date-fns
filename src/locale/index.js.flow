@@ -50,6 +50,7 @@ declare module.exports: {
   fil: Locale,
   fr: Locale,
   frCH: Locale,
+  he: Locale,
   hr: Locale,
   id: Locale,
   is: Locale,

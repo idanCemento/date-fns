@@ -16,6 +16,7 @@ module.exports = {
   fil: require('./fil/index.js'),
   fr: require('./fr/index.js'),
   frCH: require('./fr-CH/index.js'),
+  he: require('./he/index.js'),
   hr: require('./hr/index.js'),
   id: require('./id/index.js'),
   is: require('./is/index.js'),
